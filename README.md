@@ -1,5 +1,5 @@
-- 👋 Oi, Eu sou @MAndriolo
-- 👀 Gosto de ler, correr e aprender.
+- 👋 Oi, Eu sou Marcela
+- 👀 Gosto de ler, correr e desafios. .
 - 🌱Estou aprendendo Lógica de Programação.
 
 <!---
