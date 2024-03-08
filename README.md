@@ -1,4 +1,4 @@
-- 👋 Oi, Eu sou @MAndriolo
+- 👋 Oi, me chamo Marcela @MAndriolo
 - 👀 Gosto de ler, correr e aprender.
 - 🌱Estou aprendendo Lógica de Programação.
 
