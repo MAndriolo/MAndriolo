@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou Marcela
-- 👀 Gosto de ler, correr e desafios. .
+- 👀 Gosto de ler, correr e desafios. 
 - 🌱Estou aprendendo Lógica de Programação.
 
 <!---
